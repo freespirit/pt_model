@@ -1,11 +1,9 @@
 # About
+
 This is a simple ML computer vision model. It's a part of a machine learning playground that downloads photos from a 3rd party source, stores them and then builds dataset for computer vision task(s). This is the ML-part.
-==============================
 
-A short description of the project.
+# Project Organization
 
-Project Organization
-------------
 
     ├── LICENSE
     ├── Makefile           <- Makefile with commands like `make data` or `make train`
@@ -52,7 +50,5 @@ Project Organization
     │
     └── tox.ini            <- tox file with settings for running tox; see tox.testrun.org
 
-
---------
 
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
